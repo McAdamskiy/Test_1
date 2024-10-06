@@ -6,7 +6,7 @@ Hello World!
 
 Nachinayem nashe znakomstvo s kontrolem versiy.
 
-izuchayem git 
+***izuchayem git***
 
 ## nadpis
 
@@ -23,4 +23,35 @@ izuchayem git
 1. element
 2. element
 3. element
+
+### razdel 3-go urovnya
+
+#### razdel 4-go urovnya
+
+~~Zachorknutiy~~
+
+- element
+- element
+- element
+
+## Vlojenniy spisok
+
+1. element
+    - element
+    - element
+    - element
+        - esho element
+        - esho element
+            * element
+            * element
+                - element
+2. element2
+    - element
+    - element
+        - esho element
+
+## Ssilki
+
+[Geekbrains.ru](https://www.gb.ru)
+
 
