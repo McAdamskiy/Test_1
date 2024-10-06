@@ -108,3 +108,13 @@ int main(){
 <http://example.com/>
 
 <address@example.com>
+
+## Prochiye drugiye
+
+<kbd>CTRL</kbd> + <kbd>P</kbd>
+
+A&macr;
+
+[//]: # (Это комментарий, он не будет отображаться)
+[//]: # (:smile:)
+😄
