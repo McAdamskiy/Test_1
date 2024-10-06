@@ -14,6 +14,15 @@ ili ___Vot tak___
 ## Spiski
 
 chota neto
+Ispolzuyem (*) i (-) dlya spiska. Naprimer
+
+* element
+* element
+
+Ispolzuyem (1.) dlya numerovannogo spiska.
+
+1. element
+2.element
 
 ## Rabota s izobrajeniyami
 
