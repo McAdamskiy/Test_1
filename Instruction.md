@@ -13,6 +13,8 @@ ili ___Vot tak___
 
 ## Spiski
 
+chota neto
+
 ## Rabota s izobrajeniyami
 
 nujno vot tak:
