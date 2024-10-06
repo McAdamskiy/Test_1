@@ -59,7 +59,7 @@ Nachinayem nashe znakomstvo s kontrolem versiy.
 
 `stroka koda`
 
-```
+```c++
 #include <iostream>
 using namespace std;
 int main(){
