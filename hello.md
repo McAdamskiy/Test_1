@@ -55,3 +55,15 @@ Nachinayem nashe znakomstvo s kontrolem versiy.
 [Geekbrains.ru](https://www.gb.ru)
 
 
+## stroka koda
+
+`stroka koda`
+
+```
+#include <iostream>
+using namespace std;
+int main(){
+    cout << "Hello, World!";
+    return 0;
+}
+```
