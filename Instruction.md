@@ -2,10 +2,6 @@
 
 ## videleniye tksta
 
-Ispolzuyem (*) dlya kursiva. Naprimer *vot tak*
-
-Ispolzuyem (**) dlya polujirnogo. Naprimer **vot tak**
-
 ## Spiski
 
 Ispolzuyem (*) i (-) dlya spiska. Naprimer
