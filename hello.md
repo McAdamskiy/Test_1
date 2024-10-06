@@ -45,6 +45,7 @@ Nachinayem nashe znakomstvo s kontrolem versiy.
             * element
             * element
                 - element
+                ---
 2. element2
     - element
     - element
@@ -54,6 +55,7 @@ Nachinayem nashe znakomstvo s kontrolem versiy.
 
 [Geekbrains.ru](https://www.gb.ru)
 
+---
 
 ## stroka koda
 
@@ -67,3 +69,41 @@ int main(){
     return 0;
 }
 ```
+
+## Linii i tablitsi
+
+---
+| Заголовок 1 | Заголовок 2 |
+| ----------- | ----------- |
+| Ячейка 1    | Ячейка 2   |
+| Ячейка 3    | Ячейка 4   |
+
+
+## Таблица как HTML
+<table>
+    <tr>
+        <th>Заголовок 1</th>
+        <th>Заголовок 2</th>
+    </tr>
+    <tr>
+        <td>Ячейка 1.1</td>
+        <td>Ячейка 2.1</td>
+    </tr>
+    <tr>
+        <td>Ячейка 1.2</td>
+        <td>Ячейка 2.2</td>
+    </tr>
+</table>
+
+
+## Чек-листы
+* [x] Задача 1
+- [ ] Задача 2
+- [ ] Задача 3
+
+
+## Внутренние ссылки
+[Перейти к Заголовку 1](#title1)
+
+## <a id="title1">Заголовок 1</a>
+Какой-то контент
